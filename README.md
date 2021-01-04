@@ -45,13 +45,13 @@ A Semana Omnistack é uma experiência online com muito conteúdo prático, desa
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/mobile.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/mobile.png" width="1000px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/web.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/web.png" width="1000px">
 </p>
 
 ---
